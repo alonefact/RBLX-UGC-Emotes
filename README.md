@@ -18,4 +18,4 @@ The estimated cost of these emotes (Publishing + Uploading) is **75,602,250 Robu
 
 The purpose of this repository is purely for **research purposes**, and to provide a general understanding of the current state of Roblox UGC emotes...
 
-*Data collected as of 1/8/2026.*
+*Data collected as of 1/13/2026.*
