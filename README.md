@@ -11,10 +11,10 @@ Each entry in the list includes the following information:
 
 Currently, the list contains:
 
-* **33,601 emotes**
-* Uploaded by **9,445 different creators**
+* **35,452 emotes**
+* Uploaded by **10,545 different creators**
 
-The estimated cost of these emotes (Publishing + Uploading) is **75,602,250 Robux**, which is approximately **$287,283.55**.
+The estimated cost of these emotes (Publishing + Uploading) is **79,767,000 Robux**, which is approximately **$303,109.60**.
 
 The purpose of this repository is purely for **research purposes**, and to provide a general understanding of the current state of Roblox UGC emotes...
 
