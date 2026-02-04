@@ -1,6 +1,6 @@
 import json, random
 
-Emotes = json.load(open("Emotes.json", encoding="utf-8"))
+Emotes = json.load( open("Emotes.json", encoding="utf-8") )
 
 TotalEmotes = len(Emotes)
 UniqueCreators = len( set(Emote["CreatorId"] for Emote in Emotes) )
