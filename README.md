@@ -3,19 +3,23 @@
 
 Each entry in the list includes the following information:
 
-* `CreatorName`
-* `CreatorId`
-* `EmoteName`
-* `Description`
-* `ItemId`
+```json
+{
+  "CreatorName": "string",
+  "CreatorId": "number",
+  "EmoteName": "string",
+  "Description": "string",
+  "ItemId": "number"
+}
+```
 
 Currently, the list contains:
 
-* **40,556 emotes**
-* Uploaded by **11,372 different creators**
+* **42,947 emotes**
+* Uploaded by **11,756 different creators**
 
-The estimated cost of these emotes (Publishing + Uploading) is **91,251,000 Robux**, which is approximately **$346,748.80**.
+The estimated cost of these emotes (Publishing + Uploading) is **96,630,750 Robux**, which is approximately **$367,191.85**.
 
 The purpose of this repository is purely for **research purposes**, and to provide a general understanding of the current state of Roblox UGC emotes...
 
-*Data collected as of 2/25/2026.*
+*Data collected as of 3/10/2026.*
