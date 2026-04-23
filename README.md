@@ -11,10 +11,10 @@ This repository contains a compiled list of **Roblox UGC emotes** gathered from 
 
 | Metric | Value |
 |--------|-------|
-| Total Emotes | 45,993 |
-| Unique Creators | 12,236 |
-| Estimated Cost (Publishing + Uploading) | 103,484,250 Robux (~$393,235.15 USD) |
-| Data Collected | March 29, 2026 |
+| Total Emotes | 48,912 |
+| Unique Creators | 12,650 |
+| Estimated Cost (Publishing + Uploading) | 110,052,000 Robux (~$418,192.60 USD) |
+| Data Collected | April 22, 2026 |
 
 ---
 
